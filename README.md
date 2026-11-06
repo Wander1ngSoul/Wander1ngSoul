@@ -1,19 +1,79 @@
-<h1 align="center">Привет, я Игнат 👋</h1>
-<p align="center">Full-stack разработчик · ASP.NET Core · React · Python</p>
+<!-- ШАПКА -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Игнат&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20разработчик&descSize=20&descAlignY=58" width="100%" />
+
+<!-- АНИМИРОВАННЫЙ ТЕКСТ -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%2B+React;Python+%7C+Deep+Learning;Java+%7C+Android+%7C+WPF;Строю+проекты+от+идеи+до+релиза" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Wander1ngSoul-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wander1ngSoul)
+[![GitHub](https://img.shields.io/badge/GitHub-Wander1ngSoul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wander1ngSoul)
+![Profile views](https://komarev.com/ghpvc/?username=Wander1ngSoul&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 👨‍💻 Обо мне
+
+- 🎯 Делаю веб-, десктоп- и мобильные приложения
+- 🧠 Интересуюсь компьютерным зрением: распознавание показаний счётчиков на YOLOv5 + TensorFlow
+- 🌱 Прокачиваю React, TypeScript и backend на ASP.NET Core
+- 📫 Пишите в Telegram: [@Wander1ngSoul](https://t.me/Wander1ngSoul)
+
+---
 
 ## 🛠 Стек
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 📊 Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wander1ngSoul&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wander1ngSoul&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-## 📫 Связь
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
+**Языки**
+
+<img src="https://skillicons.dev/icons?i=cs,py,java,ts,js,html,css&theme=dark" />
+
+**Фреймворки и платформы**
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,tensorflow,firebase,androidstudio&theme=dark" />
+
+**Инструменты**
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,postman&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Проекты
+
+<div align="center">
+
+<a href="https://github.com/Wander1ngSoul/CoffeeBar-Asp.net-Core">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wander1ngSoul&repo=CoffeeBar-Asp.net-Core&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Wander1ngSoul/MeterRecognition">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wander1ngSoul&repo=MeterRecognition&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Проект | Описание | Технологии |
+|---|---|---|
+| ☕ **CoffeeBar** | Веб-приложение для кофейни: клиенты, бариста, админы | ASP.NET Core |
+| 📟 **MeterRecognition** | Распознавание показаний счётчиков на фото | Python, Keras, YOLOv5 |
+| 💰 **React-Crypto-API** | Трекер криптовалют с избранным | React, TypeScript |
+| 🚗 **WPF-CarSharingDesktop** | Десктоп-приложение для каршеринга | C#, WPF |
+| ✅ **UgreyMobileApp** | Менеджер задач с Firebase-авторизацией | Java, Android |
+
+---
+
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer)
+
+</div>
