@@ -1,5 +1,5 @@
 <!-- ШАПКА -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Игнат&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20разработчик&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Игнат&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20разработчик&descSize=20&descAlignY=58" width="100%" />
 
 <!-- АНИМИРОВАННЫЙ ТЕКСТ -->
 <div align="center">
