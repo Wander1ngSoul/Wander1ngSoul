@@ -3,9 +3,7 @@
 
 <!-- АНИМИРОВАННЫЙ ТЕКСТ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%2B+React;Python+%7C+Deep+Learning;Java+%7C+Android+%7C+WPF;Строю+проекты+от+идеи+до+релиза" alt="Typing SVG" />
-  </a>
+
 </div>
 
 <br>
